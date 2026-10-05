@@ -1,10 +1,10 @@
-# 🏥 Sistema Hospitalar - Gestão de Pacientes (CRUD)
+#  Sistema Hospitalar - Gestão de Pacientes (CRUD)
 
 Este é um sistema simples de gestão de pacientes desenvolvido em **Python** integrado com uma base de dados **Oracle SQL**. O projeto foi construído para demonstrar operações fundamentais de **CRUD** (Create, Read, Update, Delete) com persistência de dados.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Linguagem:** [Python 3.x](https://www.python.org/)[cite: 1]
 - **Base de Dados:** [Oracle Database](https://www.oracle.com/database/)[cite: 1]
@@ -12,7 +12,7 @@ Este é um sistema simples de gestão de pacientes desenvolvido em **Python** in
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 O sistema oferece uma interface interativa via linha de comandos (CLI) com as seguintes opções:
 
